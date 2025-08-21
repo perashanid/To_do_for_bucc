@@ -7,6 +7,9 @@
 
 ---
 
+<img width="1224" height="669" alt="image" src="https://github.com/user-attachments/assets/f5ff2b38-c483-46ae-82b0-e5b669948ac8" />
+
+
 ## 🚀 How to Run the Project Locally
 
 1. Clone the repository:
